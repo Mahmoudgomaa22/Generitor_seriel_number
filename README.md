@@ -2,7 +2,7 @@
 
 A Python-based system for generating unique serial numbers, creating barcodes, and exporting data into Excel and printable PDF label sheets.
 
-This project is designed for asset tracking, inventory management, and equipment labeling in a simple and efficient way without using any ERP system.
+This project is designed for asset tracking, inventory management, and equipment labeling in a simple and efficient way
 
  Features
 Generate unique serial numbers with custom prefix (e.g., WGZ-XXXXXXXX)
